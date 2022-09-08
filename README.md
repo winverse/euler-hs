@@ -13,7 +13,7 @@
 
   > references  
   - https://www.haskell.org/
-  - [프로그맹밍 교육에서 실습언어 선택](http://ropas.snu.ac.kr/~kwang/paper/position/edu.pdf)
+  - [프로그래밍 교육에서 실습언어 선택](http://ropas.snu.ac.kr/~kwang/paper/position/edu.pdf)
   - [value-oriented programming](http://ropas.snu.ac.kr/~kwang/paper/maso/1.pdf)
   - [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
