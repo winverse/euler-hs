@@ -8,7 +8,7 @@ num :: Integer
 num = 600851475143
 
 divisor :: Integer -> Maybe Integer
-divisor n = find (\x -> mod n x == 0) [2..n-1]
+divisor n = find (\x -> n `mod` x == 0) [2..n-1]
 
 biggestPrimeFactor :: Integer -> Integer
 biggestPrimeFactor n = case divisor n of
