@@ -6,10 +6,10 @@
 
 # Why Haskell?
   The Haskell has a several features. 
-  For example Laze evaluation, Type Guard, Pattern matching, etc...   
+  For example Lazy evaluation, Type guard, Pattern matching, etc...   
   but What I want to learn the most is Type System (it is called Type checking) in Haskell  
   The Type System is, i think, the most important thing in modern programming language,   
-  [Rust](https://www.rust-lang.org/) what seems to have been influenced by haskell, is also has a powerful type system. also [Yi KwangKeun](http://ropas.snu.ac.kr/~kwang/) proffessor at Seoul Natioal university(SNU), insisted type system as the reason why we need to learn nML.
+  [Rust](https://www.rust-lang.org/) what seems to have been influenced by haskell, is also has a powerful type system. also [Yi KwangKeun](http://ropas.snu.ac.kr/~kwang/) professor at Seoul National university(SNU), insisted type system as the reason why we need to learn nML.
 
   > references  
   - https://www.haskell.org/
@@ -19,5 +19,5 @@
 
 # The Path
  I like studying FP, Haskell has always been a language i like to learn.  
- Haskell is really not easy to me, But I try... again try...  
+ Haskell is really not easy for me, But I try... and again try...  
  This repository a process of The trying...
